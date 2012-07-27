@@ -19,3 +19,7 @@ Either download the repository and copy-paste the themes that you like to your P
 
 **Finder:**
 ![Finder](http://carlcalderon.github.com/sublime-color-schemes/images/Finder.png?v=1)
+
+**Stereokai:**
+Heavily based on [Monokai](http://www.monokai.nl/blog/2006/07/15/textmate-color-theme/) by [Wimer Hazenberg](http://monokai.nl/).
+![Stereokai](http://carlcalderon.github.com/sublime-color-schemes/images/Stereokai.png?v=1)
