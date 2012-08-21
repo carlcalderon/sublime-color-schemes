@@ -27,3 +27,6 @@ Finder modified by [Gavin Blair](https://github.com/gavinblair)
 **Stereokai:**
 Heavily based on [Monokai](http://www.monokai.nl/blog/2006/07/15/textmate-color-theme/) by [Wimer Hazenberg](http://monokai.nl/).
 ![Stereokai](http://carlcalderon.github.com/sublime-color-schemes/images/Stereokai.png?v=1)
+
+**Tyrann:**
+![Tyrann](http://carlcalderon.github.com/sublime-color-schemes/images/Tyrann.png?v=1)
