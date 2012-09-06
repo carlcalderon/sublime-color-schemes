@@ -2,6 +2,9 @@
 Works well in Sublime Text (2) and TextMate.
 
 ### Installation
+sublime-color-schemes are now included in the well known [Sublime Package Control](http://wbond.net/sublime_packages/package_control) by [wbond](http://wbond.net/). Follow the Sublime Package Control installation instructions and then search for "**carlcalderon**".
+
+#### Alternative way
 Either download the repository and copy-paste the themes that you like to your Packages directory or clone the reponsitory using the following command.
 
 	git clone https://github.com/carlcalderon/sublime-color-schemes/ ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/Color\ Scheme\ \-\ carlcalderon
