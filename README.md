@@ -2,7 +2,7 @@
 Works well in Sublime Text (2) and TextMate.
 
 ### Installation
-sublime-color-schemes are now included in the well known [Sublime Package Control](http://wbond.net/sublime_packages/package_control) by [wbond](http://wbond.net/). Follow the Sublime Package Control installation instructions and then search for "**carlcalderon**".
+sublime-color-schemes are now included in the well known [Sublime Package Control](http://wbond.net/sublime_packages/package_control) by [wbond](http://wbond.net/). Follow the Sublime Package Control installation instructions and then search for " **carlcalderon** ".
 
 #### Alternative way
 Either download the repository and copy-paste the themes that you like to your Packages directory or clone the reponsitory using the following command.
@@ -25,7 +25,7 @@ Either download the repository and copy-paste the themes that you like to your P
 
 **Finder Light:**
 Finder modified by [Gavin Blair](https://github.com/gavinblair)
-![Finder](http://carlcalderon.github.com/sublime-color-schemes/images/Finder-Light.png?v=1)
+![Finder Light](http://carlcalderon.github.com/sublime-color-schemes/images/Finder-Light.png?v=1)
 
 **Stereokai:**
 Heavily based on [Monokai](http://www.monokai.nl/blog/2006/07/15/textmate-color-theme/) by [Wimer Hazenberg](http://monokai.nl/).
@@ -35,4 +35,7 @@ Heavily based on [Monokai](http://www.monokai.nl/blog/2006/07/15/textmate-color-
 ![Tyrann](http://carlcalderon.github.com/sublime-color-schemes/images/Tyrann.png?v=1)
 
 **Tyrann Alex:**
-![Tyrann](http://carlcalderon.github.com/sublime-color-schemes/images/Tyrann-Alex.png?v=1)
+![Tyrann Alex](http://carlcalderon.github.com/sublime-color-schemes/images/Tyrann-Alex.png?v=1)
+
+**Tyrann Blue:**
+![Tyrann Blue](http://carlcalderon.github.com/sublime-color-schemes/images/Tyrann-Blue.png?v=1)
