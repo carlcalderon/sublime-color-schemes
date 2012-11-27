@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>author</key>
+	<string>Carl Calderon</string>
 	<key>name</key>
 	<string>Tyrann Alex</string>
 	<key>settings</key>
@@ -276,6 +278,19 @@
 				<string>bold</string>
 				<key>foreground</key>
 				<string>#B3A3A3</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JSON key</string>
+			<key>scope</key>
+			<string>source.json meta.structure.dictionary.json string.quoted.double.json - source.json meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#469BCF</string>
 			</dict>
 		</dict>
 	</array>
