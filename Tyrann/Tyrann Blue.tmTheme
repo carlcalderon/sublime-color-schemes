@@ -275,6 +275,245 @@
 				<string>#469BCF</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Diff</string>
+			<key>scope</key>
+			<string>source.diff</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#929A9D</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Diff - insert</string>
+			<key>scope</key>
+			<string>source.diff markup.inserted.diff, markup.inserted</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#8CC21D</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Diff - insert punctuation</string>
+			<key>scope</key>
+			<string>source.diff markup.inserted.diff punctuation.definition.inserted.diff</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#8CC21D80</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Diff - delete</string>
+			<key>scope</key>
+			<string>source.diff markup.deleted.diff, markup.deleted</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#BB4C4F</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Diff - delete punctuation</string>
+			<key>scope</key>
+			<string>source.diff markup.deleted.diff punctuation.definition.inserted.diff</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#BB4C4F80</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Diff - change</string>
+			<key>scope</key>
+			<string>source.diff markup.changed.diff, markup.changed</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#5874CD</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Diff - change punctuation</string>
+			<key>scope</key>
+			<string>source.diff markup.changed.diff punctuation.definition.inserted.diff</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#5874CD80</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Diff - meta range</string>
+			<key>scope</key>
+			<string>source.diff meta.diff.range.unified</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#469BCF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Diff - meta range punctuation</string>
+			<key>scope</key>
+			<string>source.diff meta.diff.range.unified punctuation.definition.range.diff</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#469BCF80</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Diff - meta to file</string>
+			<key>scope</key>
+			<string>source.diff meta.diff.header</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#131212</string>
+				<key>background</key>
+				<string>#74D0EF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markup - heading</string>
+			<key>scope</key>
+			<string>markup.heading</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#74D0EF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markup - heading punctuation</string>
+			<key>scope</key>
+			<string>markup.heading punctuation.definition</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#131212</string>
+				<key>background</key>
+				<string>#74D0EF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markup - underline</string>
+			<key>scope</key>
+			<string>markup.underline</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>underline</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markup - bold</string>
+			<key>scope</key>
+			<string>markup.bold</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markup - italic</string>
+			<key>scope</key>
+			<string>markup.italic</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markup - link</string>
+			<key>scope</key>
+			<string>markup.underline.link</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic underline</string>
+				<key>foreground</key>
+				<string>#398CCD</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markup - link reference</string>
+			<key>scope</key>
+			<string>constant.other.reference.link</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#CD4E55</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markup - raw</string>
+			<key>scope</key>
+			<string>markup.raw</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#888886</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markup - raw inline</string>
+			<key>scope</key>
+			<string>markup.raw.inline</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#CD673B</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>03B76864-ABEE-47AB-ADE6-424E1583365B</string>
