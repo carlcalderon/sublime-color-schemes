@@ -37,5 +37,8 @@ Heavily based on [Monokai](http://www.monokai.nl/blog/2006/07/15/textmate-color-
 **Tyrann Alex:**
 ![Tyrann Alex](http://carlcalderon.github.com/sublime-color-schemes/images/Tyrann-Alex.png?v=1)
 
+**Tyrann Kim:**
+![Tyrann Kim](http://carlcalderon.github.com/sublime-color-schemes/images/Tyrann-Kim.png?v=1)
+
 **Tyrann Blue:**
 ![Tyrann Blue](http://carlcalderon.github.com/sublime-color-schemes/images/Tyrann-Blue.png?v=1)
