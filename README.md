@@ -9,6 +9,12 @@ Either download the repository and copy-paste the themes that you like to your P
 
 	git clone https://github.com/carlcalderon/sublime-color-schemes/ ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/Color\ Scheme\ \-\ carlcalderon
 
+### Contribution
+Please feel free to comment, suggest, stab or pull request. The goal is to create and maintain the best possible schemes to everyone. Any Flattr dontations are much appreciated!
+
+[![Flattr Button](http://api.flattr.com/button/flattr-badge-large.png)][Flattr]
+[Flattr]: http://flattr.com/thing/1429776/
+
 ### Samples
 
 **Calydon:**
