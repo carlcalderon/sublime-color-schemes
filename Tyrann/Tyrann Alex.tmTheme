@@ -284,13 +284,26 @@
 			<key>name</key>
 			<string>JSON key</string>
 			<key>scope</key>
-			<string>source.json meta.structure.dictionary.json string.quoted.double.json - source.json meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json</string>
+			<string>source.json meta.structure.dictionary.json string.quoted.double.json, source.json meta.structure.dictionary.json meta.structure.array.json meta.structure.dictionary.json string.quoted.double.json - source.json meta.structure.dictionary.json meta.structure.array.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.array.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.array.json meta.structure.dictionary.json string.quoted.double.json - source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.array.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.array.json meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
 				<string>#469BCF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JSON value</string>
+			<key>scope</key>
+			<string>source.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta.structure.dictionary.json meta.structure.array.json string.quoted.double.json, source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.array.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.array.json meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#A5C065</string>
 			</dict>
 		</dict>
 		<dict>
