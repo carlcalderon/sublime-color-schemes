@@ -34,7 +34,7 @@ Finder modified by [Gavin Blair](https://github.com/gavinblair)
 ![Finder Light](http://carlcalderon.github.com/sublime-color-schemes/images/Finder-Light.png?v=1)
 
 **Stereokai:**
-Heavily based on [Monokai](http://www.monokai.nl/blog/2006/07/15/textmate-color-theme/) by [Wimer Hazenberg](http://monokai.nl/).
+Heavily based on [Monokai](http://www.monokai.nl/blog/2006/07/15/textmate-color-theme/) by [Wimer Hazenberg](http://monokai.nl/). JSON, GitGutter and Markdown support added by [André Zanghelini](https://github.com/An-dz).
 ![Stereokai](http://carlcalderon.github.com/sublime-color-schemes/images/Stereokai.png?v=2)
 
 **Tyrann:**
